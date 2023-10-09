@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_mpivot_rule">
+    <sys_report_mpivot_rule action="INSERT_OR_UPDATE">
+        <bg_color>background-color:</bg_color>
+        <bg_color_id/>
+        <color>background-color:#FF0000</color>
+        <color_id display_value="Red">65b30395a9fe3dba003277a7b660b5db</color_id>
+        <operator>&gt;=</operator>
+        <order/>
+        <report_id display_value="Active Critical Issues">287fddab975131102538f5b0f053afb8</report_id>
+        <sys_class_name>sys_report_mpivot_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-21 15:32:34</sys_created_on>
+        <sys_id>f4cf15eb975131102538f5b0f053af3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>&gt;=</sys_name>
+        <sys_package display_value="Safety" source="x_1126828_safety">fb2dc96b971131102538f5b0f053afe6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">fb2dc96b971131102538f5b0f053afe6</sys_scope>
+        <sys_update_name>sys_report_mpivot_rule_f4cf15eb975131102538f5b0f053af3d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-21 15:32:34</sys_updated_on>
+        <value1>3</value1>
+        <value2/>
+    </sys_report_mpivot_rule>
+</record_update>
